@@ -1,0 +1,15 @@
+{
+  "name": "browserify-fullscreen",
+  "version": "0.0.0",
+  "description": "Browserify module for the HTML5 Fullscreen API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "global": "~2.0.1"
+  }
+}
